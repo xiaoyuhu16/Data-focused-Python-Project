@@ -86,29 +86,30 @@ Please also download the following datasets that are pre-processed and will be u
   * restaurants.csv
   * ZIP_Codes.csv
   * boston_zipcodes.geojson
-  * folder: hotelList
   * folder: restaurants
 
 ## 4. How to Use
   * Run main.py
     
-   You will launch the application, and the first WelcomePage will appear. Click on the buttons for any procedures. The first part of this README.md file, 'Feature', includes all the details for each page. You will be able to obtain the list of hotels recommended based on your preferences and visualizations of Boston crime records, restaurants, and transportation in forms of HTML file.
+   You will launch the application, and the first WelcomePage will appear. Click on the buttons for any procedures. The first part of this README.md file, 'Feature', includes all the details for each page. You will be able to obtain the list of hotels recommended based on your preferences and visualizations of Boston crime records, restaurants, and transportation in the form of an HTML file.
 
 ## 5.Authors
 
-Xiaoyu Hu
-
-Yang Wang
-
-Zhenyi Wei
-
-Han Bao
-
-Wei Zou
+Xiaoyu Hu, Yang Wang, Zhenyi Wei, Han Bao, Wei Zou
 
 ## 6.Acknowledgments
 
+[Crime Data link](https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system)
 
+[Bus Data link](https://geo-massdot.opendata.arcgis.com/datasets/mbta-bus-stops/explore)
+
+[Bike Data link](https://data.boston.gov/group/transportation)
+
+[Restaurant Data link](https://www.opentable.com)
+
+[Hotel Data link](https://www.booking.com/index.html)
+
+[Zipcode Data link](https://data.boston.gov/dataset/zip-codes)
 
 
 
